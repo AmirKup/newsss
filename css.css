@@ -1,0 +1,39 @@
+.container {
+	width: 800px;
+	max-width: 90%;
+}
+.wapka {
+text-align:  center;
+background: #000000; /* Цвет фона под заголовком */
+color: yellow; /* Цвет текста */
+padding: 25px; /* Поля вокруг текста */
+max-width: 100%;
+border: none;
+margin-left: -10px;
+margin-right: -10px;
+margin-top: -10px;
+}
+
+.news {
+text-align:  center;
+background: #FAF0E6; /* Цвет фона под заголовком */
+color: black; /* Цвет текста */
+padding: 100px; /* Поля вокруг текста */
+max-width: 100%;
+font-size: 120%;
+border: none;
+margin-left: -10px;
+margin-right: -10px;
+margin-top: 10px;
+border-radius: 10px;
+
+}
+
+
+.img{
+	max-width: 100%
+	height: auto;
+}
+.break-word {
+		word-wrap: break-word;
+}
